@@ -11,7 +11,7 @@ const Dimmer = ({val}) => {
 
   useEffect(() => {
     val(v);
-  }, [v]);
+  }, [v, val]);
 
   return (
     <div className={classnames('dimmer')}>

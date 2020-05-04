@@ -12,7 +12,7 @@ const Switch = ({toggleSwitch}) => {
 
   useEffect(() => {
     toggleSwitch(isSwitchOn);
-  }, [isSwitchOn]);
+  }, [isSwitchOn, toggleSwitch]);
 
   return (
     <div className={classnames('switch', (isSwitchOn) ? 'switch--ison' : 'switch--isoff')} onClick={handleSwitchClick}></div>
