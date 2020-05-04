@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import classnames from 'classnames';
 
 const Dimmer = ({val}) => {
-  const [v, setV] = useState(50);
+  const [v, setV] = useState(0);
 
   const handleDimmerChange = (ev) => {
     setV(ev.target.value);
