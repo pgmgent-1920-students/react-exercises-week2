@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { CaseList } from './components/cases';
-import { Lamp } from './components/lights';
+import { Lamp, DimmedLamp } from './components/lights';
 
 const App = () => {
   return (
@@ -11,6 +11,9 @@ const App = () => {
       </div>  
       <div className="container">
         <Lamp />
+      </div>  
+      <div className="container">
+        <DimmedLamp />
       </div>      
     </div>
   );
