@@ -1,0 +1,37 @@
+.lamp {
+  width: 100px;
+  height: 100px;
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.lamp--ison {
+  background: #fff;
+}
+
+.lamp--isoff {
+  background: #000;
+}
+
+.switch {
+  background: #fff;
+  width: 32px;
+  height: 32px;
+}
+
+.switch--ison {
+  background: #000;
+}
+
+.switch--isoff {
+  background: #fff;
+}
+
+.switch:hover {
+  cursor: hand;
+  cursor: pointer;
+}
