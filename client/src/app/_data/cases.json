@@ -1,0 +1,52 @@
+[
+    {
+        "id": "0c0ba97a-1922-4458-92d8-da70b4cd7a35",
+        "title": "Project Shrinksleeves",
+        "synopsis": "In het derde jaar GMB Printmedia verdiepen de studenten zich ondermeer in verpakkingstechnologie. In een realistische case wordt samengewerkt met professionelen uit het werkveld. Ze ontwerpen een eigen flesje in 3D en printen het ook driedimensionaal. Met gespecialiseerde software compenseren ze het krimpgedrag van een shrinksleeve, zodat hun design perfect op het flesje past. Uiteindelijk maken ze een prototype, zowel digitaal als een tastbaar exemplaar",
+        "tags": [
+            "blender",
+            "3d-print",
+            "packaging software",
+            "3d-prototyping"
+        ],
+        "thumbnailUrl": "https://dl.airtable.com/.attachments/0d7a68203605a7fbdab5ce99d3a8129a/c8f621e0/_DSC004506.JPG",
+        "createdAt": 1588430225678
+    },
+    {
+        "id": "afc40269-6e8a-4e16-ad6c-6608201e0a84",
+        "title": "Web App - Swappit",
+        "synopsis": "Swappit is een veilingsplatform voor festivaltickets dat kopers en verkopers in contact brengt. Dit platform garandeert dat de gebruiker zijn ticket kan ruilen op een veilige en eenvoudige manier. De backoffice, gemaakt in Laravel, haalt data op uit een MySQL database en verdeelt dit via een eigen API. Via deze API consumeren we data in de frontoffice, die gemaakt is in Angular.",
+        "tags": [
+            "Laravel",
+            "MySQL"
+        ],
+        "thumbnailUrl": "https://dl.airtable.com/.attachments/8c42c1ccf8ef2980be7abe89a6403f59/3286188b/case_lg_swapit_tiles.jpg",
+        "createdAt": 1588430240347
+    },
+    {
+        "id": "326ffadf-782a-4432-a26b-0c96f3c48168",
+        "title": "UZ Kinderhartfonds",
+        "synopsis": "Jongeren die een inspanningstest moeten afleggen kijken hier vaak tegenop. Ze weten niet wat hun te wachten staat of ze hebben het al eens gedaan en staan niet te springen om het opnieuw te doen. Men kan dit hen niet kwalijk nemen. Tijdens de inspanningstest dient men tot het fysieke uiterste te gaan, dit in combinatie met een intimiderende kamer vol met medische apparatuur zorgt er al snel voor dat de test niet als aangenaam wordt ervaren.",
+        "tags": [
+            "Raspberry Pi",
+            "Node.js"
+        ],
+        "thumbnailUrl": "https://dl.airtable.com/.attachments/51f30a8dd203fb2719bcc907ee736e18/9e6fe5e9/case_sm_thumbnail.PNG",
+        "createdAt": 1588430244770
+    },
+    {
+        "id": "a8ce7327-aa7c-4fbd-b1ff-d4120c46681e",
+        "title": "SnekTheMuseum",
+        "synopsis": "Het idee voor “snek the museum” is ontstaan uit een project voor “Apps for Ghent”. Dit is een initiatief om de open-data van gent maximaal te gaan benutten en de mogelijkheden ervan bij zoveel mogelijk mensen bekend te maken. Ons idee komt voort uit een andere populaire app, “surprise.me” . Dit is een app die voor u willekeurig gaat bepalen waar u op reis gaat, net voordat u vertrekt. Wij willen iets gelijkaardig creëren, maar dan voor Gentse musea. En dit met een toffe, speelse twist die u de musea beter leert kennen!",
+        "tags": [
+            "React native",
+            "React",
+            "MongoDb",
+            "Firebase",
+            "Node.js",
+            "Redux"
+        ],
+        "thumbnailUrl": "https://dl.airtable.com/.attachments/0d8103500ae17ba6f88c2e8afb3f7611/cf7d2bef/case_mockupsnekthemuseum.jpg",
+        "createdAt": 1588593875806
+    }
+]

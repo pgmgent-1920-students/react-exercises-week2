@@ -1,0 +1,10 @@
+.case-list > div {
+  margin-bottom: 30px;
+}
+
+.case-list__item picture > img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+}
